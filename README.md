@@ -1,6 +1,6 @@
  #  sobre mim
 
-- 🖥️ Hi, I’m @alunaErika :)
+- 🖥️ Hi, I’m @Erika :)
 - 🚙 I’m interested in games and youtuber
 - 🌱 I’m currently learning computational thinking
 - 💞️ I’m looking to collaborate on concept test
